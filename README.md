@@ -1,5 +1,6 @@
 # Lost Temple Adventure - 2D Platformer Game & ESP32S3 Controller Project #
-A Unity 2D Game Project for Introduction to Computer Hardware Development Subject, featuring custom input action using customized ESP32 board as controller 
+A Unity 2D Game Project for Introduction to Computer Hardware Development Subject, featuring custom input action using customized ESP32 board as controller.
+A project presentation video could be found at : https://www.youtube.com/watch?v=ysNn58gjF5k
 
 ======================================================================================================================================================
 
